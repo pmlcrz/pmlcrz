@@ -4,8 +4,19 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 </a> </h1>
 	
 <br>
+
+ 
+## ☺
+Full stack developer, enthusiastic about the *back*, but also developing a taste for the *front* as time goes by. Perpetually curious, constantly seeking to learn something new.
 <br>
-	
+
+## ♥ 
+-  A true ***Potterhead***
+-  ***Tom Cruise*** and ***Denzel*** number one fan.
+-  ***Rock*** and ***classical music*** result in a significant increase in my serotonin levels.
+-  ***Kitten*** enthusiast.
+
+<br>
 	
 <details align="center">
  <summary><h3> My journey</h3></summary>
@@ -15,7 +26,6 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 <br>
 <br>
 		
-	
 
 <!--
 ## 👩🏿‍💻
