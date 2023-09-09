@@ -10,8 +10,12 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 Full stack developer, enthusiastic about the *back*, but also developing a taste for the *front* as time goes by. Perpetually curious, constantly seeking to learn something new.
 <br>
 
+## ♡
+- Engaging in volunteer work, helping others, warms my heart. 
+- Blood donor.
+
 ## ♥ 
--  A true ***Potterhead***
+-  A true ***Potterhead***.
 -  ***Tom Cruise*** and ***Denzel*** number one fan.
 -  ***Rock*** and ***classical music*** result in a significant increase in my serotonin levels.
 -  ***Kitten*** enthusiast.
