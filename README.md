@@ -1,10 +1,8 @@
 
 <h1 align="center">Hello!! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" width="30"/> I'm <a href="https://github.com/pmlcrz?tab=repositories/" target="blank">
 Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="30" height="23"/>
-</a> </h1>
-	
+</a> </h1>	
 <br>
-
  
 ## ☺
 *Full stack developer, enthusiastic about the *back*, but also developing a taste for the *front* as time goes by. Perpetually curious, constantly seeking to learn something new.*
