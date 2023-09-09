@@ -9,7 +9,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 <br>
 
 ## ♡
-- Engaging in volunteer work, helping others, warms my heart. 
+- Engaging in volunteer work, helping others warms my heart. 
 - Blood donor.
 
 ## ✎
