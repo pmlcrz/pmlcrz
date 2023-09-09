@@ -24,7 +24,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 	
 <details align="center">
  <summary><h3> My journey</h3></summary>
-   A young woman who has dreamt of working with technology since the age of 12, or as I used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, I decided to pursue that long-standing dream. With a full scholarship, I began my journey in the field of Analysis and Systems Development. The following year, I passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying PHP. Currently, my strongest knowledge lies in JavaScript and Python, particularly in the realm of cybersecurity. I'm also an illustrator in my spare time, adding a creative touch to the world. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
+   A young woman who has dreamt of working with technology since the age of 12, or as I used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, I decided to pursue that long-standing dream. With a full scholarship, I began my journey in the field of Analysis and Systems Development. The following year, I passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying PHP. Currently, my strongest knowledge lies in JavaScript and Python, particularly in the realm of cybersecurity. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
 </details>
 
 <br>
@@ -74,7 +74,6 @@ User.new(name: '',
 <img align="" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
 	
