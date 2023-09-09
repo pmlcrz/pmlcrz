@@ -21,7 +21,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 ## ♥ 
 -  A true ***Potterhead***.
 -  ***Tom Cruise*** and ***Denzel*** number one fan.
--  ***Rock*** and ***classical music*** result in a significant increase in my serotonin levels.
+-  ***Rock*** and ***classical music*** boost my serotonin significantly.
 -  ***Kitten*** enthusiast.
 
 <br>
