@@ -7,7 +7,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
  
 ## ☺
-Full stack developer, enthusiastic about the *back*, but also developing a taste for the *front* as time goes by. Perpetually curious, constantly seeking to learn something new.
+*Full stack developer, enthusiastic about the *back*, but also developing a taste for the *front* as time goes by. Perpetually curious, constantly seeking to learn something new.*
 <br>
 
 ## ♡
