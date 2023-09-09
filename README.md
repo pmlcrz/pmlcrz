@@ -14,6 +14,10 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 - Engaging in volunteer work, helping others, warms my heart. 
 - Blood donor.
 
+## ✎
+- Improving my English and Spanish.
+- Studying Mandarin, Korean, and French.
+
 ## ♥ 
 -  A true ***Potterhead***.
 -  ***Tom Cruise*** and ***Denzel*** number one fan.
