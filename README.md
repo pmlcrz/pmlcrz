@@ -29,30 +29,6 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 </details>
 
 <br>
-<!--
-## 👩🏿‍💻
-
-```ruby
-# 
-class Me < Dry::Struct
-  attribute :name, Types::String
-  attribute :pronouns, Types::Array.of(Types::String)
-  attribute :current_working, Types::String
-  attribute :languages, Types::Array.of(Types::String)
-  attribute :tools, Types::Array.of(Types::String)
-  attribute :frameworks, Types::Array.of(Types::String)
-end
-
-User.new(name: '',
-         pronouns: %w[],
-         current_working: ' (https://www.)',
-         languages: %w[ ],
-         tools: %w[ ],
-         frameworks: ['', '', '', ''])
-```
-
--->
-
 
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> Languages and tools <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
 
@@ -100,6 +76,31 @@ User.new(name: '',
 
 <!--
 
+
+<!--
+## 👩🏿‍💻
+
+```ruby
+# 
+class Me < Dry::Struct
+  attribute :name, Types::String
+  attribute :pronouns, Types::Array.of(Types::String)
+  attribute :current_working, Types::String
+  attribute :languages, Types::Array.of(Types::String)
+  attribute :tools, Types::Array.of(Types::String)
+  attribute :frameworks, Types::Array.of(Types::String)
+end
+
+User.new(name: '',
+         pronouns: %w[],
+         current_working: ' (https://www.)',
+         languages: %w[ ],
+         tools: %w[ ],
+         frameworks: ['', '', '', ''])
+```
+
 ## Visualizações de perfil
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=pmlcrz%2Fpmlcrz&label=Visitors%20Daily%2FTotal&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=pmlcrz%2Fpmlcrz)
+
+-->
