@@ -9,7 +9,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 </details>
 
 ## ☺
-- Full stack developer deeply in love with PHP and embracing the Java as time goes by.
+- Full stack developer with a strong affinity for PHP and progressively adopting Java as time elapses.
 - Perpetually curious, constantly seeking to learn something new.
 
 ## ✐
