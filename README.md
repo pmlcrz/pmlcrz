@@ -1,7 +1,14 @@
 
-<h1 align="center">Hello!! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" width="30"/> <!-- I'm <a href="https://github.com/pmlcrz?tab=repositories/" target="blank">
+<h1 align="center">Hello!! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" width="30"/> I'm <a href="https://github.com/pmlcrz?tab=repositories/" target="blank">
 Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="30" height="23"/>
-</a>  --> </h1>	
+</a>  </h1>	
+<br>
+
+ <details align="center">
+ <summary><h4> My journey</h4></summary>
+   A young woman who has dreamt of working with technology since the age of 12, or as I used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, I decided to pursue that long-standing dream. With a full scholarship, I began my journey in the field of Analysis and Systems Development. The following year, I passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying PHP. Currently, my strongest knowledge lies in JavaScript and Python, particularly in the realm of cybersecurity. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
+</details>
+
 <br>
 
 ## ☺
@@ -11,24 +18,15 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 - Engaging in volunteer work, helping others warms my heart. 
 - Blood donor.
 
-## 🖊
+## ✐
 - Improving my English and Spanish.
 - Studying Mandarin, Korean, and French.
 
 ## ♥ 
 -  A true ***Potterhead***.
--  ***Tom Cruise*** and ***Denzel*** number one fan.
+-  ***Tom Cruise*** number one fan.
 -  ***Rock*** and ***classical music*** boost my serotonin significantly.
--  ***Kitten*** enthusiast.
 <br>		
-
-
- <details align="center">
- <summary><h4> My journey</h4></summary>
-   A young woman who has dreamt of working with technology since the age of 12, or as I used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, I decided to pursue that long-standing dream. With a full scholarship, I began my journey in the field of Analysis and Systems Development. The following year, I passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying PHP. Currently, my strongest knowledge lies in JavaScript and Python, particularly in the realm of cybersecurity. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
-</details>
-
-<br>
 
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> Languages and tools <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
 
