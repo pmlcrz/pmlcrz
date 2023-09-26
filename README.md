@@ -51,6 +51,26 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 <img align="" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
+
+<div style="display: inline_block" align="center">
+  
+
+  
+  ###### Total visits in this profile, from 26/09/2023
+  <br/>
+
+  <img alingn="center" src="https://profile-counter.glitch.me/pmlcrz/count.svg" /></br>
+      
+</div>
+<div align="center">
+  
+### I am currently working on this project. 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinicadafamilia-AugustaKing&&theme=github_dark)](https://github.com/pmlcrz/clinicadafamilia-AugustaKing)
+
+</div>
+
+<div align="center">
 	
 <br>
 <br>
