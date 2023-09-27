@@ -13,20 +13,20 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
  <summary><h4>About me</h4></summary>
 
 ## ☺
-- Full stack developer with a strong affinity for PHP and progressively adopting Java as time elapses.
-- Perpetually curious, constantly seeking to learn something new.
+Full stack developer with a strong affinity for PHP and progressively adopting Java as time elapses.
+Perpetually curious, constantly seeking to learn something new.
 
 ## ✐
-- Improving my English and Spanish.
-- Studying Mandarin, Korean, and French.
+Improving my English and Spanish.
+Studying Mandarin, Korean, and French.
  
 ## ♡
-- Engaging in volunteer work, helping others warms my heart. 
-- Blood donor.
+Engaging in volunteer work, helping others warms my heart. 
+Blood donor.
 
 ## ♥ 
--  A true ***Potterhead***.
--  ***Rock*** and ***classical music*** boost my serotonin significantly.
+A true ***Potterhead***.
+***Rock*** and ***classical music*** boost my serotonin significantly.
 <br>		
 
 </details>
