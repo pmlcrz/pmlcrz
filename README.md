@@ -8,6 +8,10 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
    A young woman who has dreamt of working with technology since the age of 12, or as I used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, I decided to pursue that long-standing dream. With a full scholarship, I began my journey in the field of Analysis and Systems Development. The following year, I passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying PHP. Currently, my strongest knowledge lies in JavaScript and Python, particularly in the realm of cybersecurity. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
 </details>
 
+
+ <details align="center">
+ <summary><h4>About me</h4></summary>
+
 ## ☺
 - Full stack developer with a strong affinity for PHP and progressively adopting Java as time elapses.
 - Perpetually curious, constantly seeking to learn something new.
@@ -25,6 +29,13 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 -  ***Rock*** and ***classical music*** boost my serotonin significantly.
 <br>		
 
+</details>
+
+
+ <details align="center">
+ <summary><h4>Languages, Stats and Projects </h4></summary>
+
+ 
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> Languages and tools <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
 
 <div align="center">
@@ -52,16 +63,6 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 </div>
 
 
-<div style="display: inline_block" align="center">
-  
-
-  
-  ###### Total visits in this profile, from 26/09/2023
-  <br/>
-
-  <img alingn="center" src="https://profile-counter.glitch.me/pmlcrz/count.svg" /></br>
-      
-</div>
 <div align="center">
   
 ### I am currently working on this project. 
@@ -85,37 +86,16 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pmlcrz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlcrz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
 </div>
+</details>
 
 
+<!-- <div style="display: inline_block" align="center">
+  
 
+  
+  ###### Total visits in this profile, from 26/09/2023
+  <br/>
 
-<!--
-
-
-<!--
-## 👩🏿‍💻
-
-```ruby
-# 
-class Me < Dry::Struct
-  attribute :name, Types::String
-  attribute :pronouns, Types::Array.of(Types::String)
-  attribute :current_working, Types::String
-  attribute :languages, Types::Array.of(Types::String)
-  attribute :tools, Types::Array.of(Types::String)
-  attribute :frameworks, Types::Array.of(Types::String)
-end
-
-User.new(name: '',
-         pronouns: %w[],
-         current_working: ' (https://www.)',
-         languages: %w[ ],
-         tools: %w[ ],
-         frameworks: ['', '', '', ''])
-```
-
-## Visualizações de perfil
-
-[![Visitors](https://api.visitorbadge.io/api/combined?path=pmlcrz%2Fpmlcrz&label=Visitors%20Daily%2FTotal&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=pmlcrz%2Fpmlcrz)
-
--->
+  <img alingn="center" src="https://profile-counter.glitch.me/pmlcrz/count.svg" /></br>
+      
+</div> -->
