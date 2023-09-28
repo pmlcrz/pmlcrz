@@ -1,6 +1,11 @@
- <h1 align="center"> Hello!! <!--<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" width="30px"/> --> I'm <a href="https://github.com/pmlcrz?tab=repositories/" target="blank">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+be+welcome!+;Im+Pamela+Cruz.;Full+stack+developer.;)](https://git.io/typing-svg)
+ 
+<!-- <h1 align="center"> Hello!! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" width="30px"/>  I'm <a href="https://github.com/pmlcrz?tab=repositories/" target="blank">
 Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="30" height="23"/>
-</a>  </h1> 
+</a>  </h1> -->
 	
 
  <details align="center">
@@ -63,13 +68,11 @@ A true ***Potterhead***.
 </div>
 
 
-<div align="center">
-  
-### I am currently working on this project. 
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinicadafamilia-AugustaKing&&theme=github_dark)](https://github.com/pmlcrz/clinicadafamilia-AugustaKing)
-
-</div>
+<p align="center">
+<a href="https://github.com/pmlcrz/github-readme-activity-graph#react-dark">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmlcrz&theme=gotham&area=true&hide_border=true&color=B0C4DE" width="100%">
+</a>
+</p>
 
 <div align="center">
 	
@@ -86,6 +89,18 @@ A true ***Potterhead***.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pmlcrz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlcrz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
 </div>
+
+
+
+<div align="center">
+  
+### I am currently working on this project. 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinicadafamilia-AugustaKing&&theme=github_dark)](https://github.com/pmlcrz/clinicadafamilia-AugustaKing)
+
+</div>
+
+
 </details>
 
 
@@ -99,3 +114,7 @@ A true ***Potterhead***.
   <img alingn="center" src="https://profile-counter.glitch.me/pmlcrz/count.svg" /></br>
       
 </div> -->
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
