@@ -18,19 +18,15 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
  <summary><h4>About me</h4></summary>
 
 ## ☺
-Full stack developer with a strong affinity for PHP and progressively adopting Java as time elapses.
 Perpetually curious, constantly seeking to learn something new.
 
 ## ✐
-Improving my English and Spanish.
-Studying Mandarin, Korean, and French.
+Improving my English and Spanish and studying Mandarin, Korean, and French.
  
 ## ♡
-Engaging in volunteer work, helping others warms my heart. 
-Blood donor.
+Engaging in volunteer work, helping others warms my heart.
 
-## ♥ 
-A true ***Potterhead***.
+## ♫ 
 ***Rock*** and ***classical music*** boost my serotonin significantly.
 <br>		
 
@@ -38,7 +34,7 @@ A true ***Potterhead***.
 
 
  <details align="center">
- <summary><h4>Languages, Stats and Projects </h4></summary>
+ <summary><h4>Languages, stats and more </h4></summary>
 
  
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> What i work with <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
