@@ -104,9 +104,6 @@ Design:
 
 
 
-
-
-
 <p align="center">
 <a href="https://github.com/pmlcrz/github-readme-activity-graph#react-dark">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmlcrz&theme=gotham&area=true&hide_border=true&color=B0C4DE" width="100%">
@@ -114,6 +111,9 @@ Design:
 </p>
 
 <div align="center">
+
+![Codewars](https://www.codewars.com/users/pmlcrz/badges/large)
+
 	
 <br>
 <br>
