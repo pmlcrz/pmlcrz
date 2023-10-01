@@ -20,7 +20,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 ## ☺
 Perpetually curious, constantly seeking to learn something new.
 
-## ✐
+## ✍︎
 Improving my English and Spanish and studying Mandarin, Korean, and French.
  
 ## ♡
