@@ -133,9 +133,14 @@ Design:
 
 <div align="center">
   
-### I am currently working on this project. 
+### I am currently working on these projects. 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinicadafamilia-AugustaKing&&theme=github_dark)](https://github.com/pmlcrz/clinicadafamilia-AugustaKing)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=pmlcrz.io&&theme=github_dark)](https://github.com/pmlcrz/pmlcrz.io)
+
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=ecommerce-em-laravel&&theme=github_dark)](https://github.com/pmlcrz/ecommerce-em-laravel)
+
+
 
 </div>
 
