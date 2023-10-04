@@ -14,24 +14,6 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 </details>
 
 
- <details align="center">
- <summary><h4>About me</h4></summary>
-
-## ☺
-Perpetually curious, constantly seeking to learn something new.
-
-## ✍︎
-Improving my English and Spanish and studying Mandarin, Korean, and French.
- 
-## ♡
-Engaging in volunteer work, helping others warms my heart.
-
-## ♫ 
-***Rock*** and ***classical music*** boost my serotonin significantly.
-<br>		
-
-</details>
-
 
  <details align="center">
  <summary><h4>Languages, stats and more </h4></summary>
@@ -143,6 +125,44 @@ Design:
 
 
 </details>
+
+
+
+ <details align="center">
+ <summary><h4>About me</h4></summary>
+
+```python
+class Me:
+    def __init__(self, name, music_genres, personality_type, favorite_colors, hobbies, languages):
+        self.name = name
+        self.music_genres = music_genres
+        self.personality_type = personality_type
+        self.favorite_colors = favorite_colors
+        self.hobbies = hobbies
+        self.languages = languages
+
+me = Me(
+    name='pmlcrz',
+    music_genres=['Rock', 'Classical', 'K-pop'],
+    personality_type=['ENTJ-A', '3w4'],
+    favorite_colors=['Blue', 'Pink', 'Yellow', 'Green'],
+    hobbies=['Hiking', 'Books', 'Art', 'Travel'],
+    languages=['Brazilian portuguese', 'English', 'French', 'Mandarin', 'Spanish', 'Korean',]
+)
+
+print(f"Nome: {me.name}")
+print(f"Gêneros Musicais: {', '.join(me.music_genres)}")
+print(f"Tipo de Personalidade: {me.personality_type}")
+print(f"Cores Favoritas: {', '.join(me.favorite_colors)}")
+print(f"Hobbies: {', '.join(me.hobbies)}")
+print(f"Idiomas: {', '.join(me.languages)}")
+
+```
+
+
+
+</details>
+
 
 
 
