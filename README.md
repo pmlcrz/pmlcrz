@@ -137,6 +137,7 @@ Design:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=pmlcrz.io&&theme=github_dark)](https://github.com/pmlcrz/pmlcrz.io)
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinica&&theme=github_dark)](https://github.com/pmlcrz/clinica).
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=ecommerce-em-laravel&&theme=github_dark)](https://github.com/pmlcrz/ecommerce-em-laravel)
 
