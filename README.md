@@ -104,13 +104,8 @@ Design:
 <br>
 
 <div align="center">
-
-![Codewars](https://www.codewars.com/users/pmlcrz/badges/large)
-
 	
-<br>
-<br>
-	
+
 
  <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="30" height="23"> Stats <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="30" height="23"> </h2>
 
