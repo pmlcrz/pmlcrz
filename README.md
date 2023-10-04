@@ -150,12 +150,12 @@ me = Me(
     languages=['Brazilian portuguese', 'English', 'French', 'Mandarin', 'Spanish', 'Korean',]
 )
 
-print(f"Nome: {me.name}")
-print(f"Gêneros Musicais: {', '.join(me.music_genres)}")
-print(f"Tipo de Personalidade: {me.personality_type}")
-print(f"Cores Favoritas: {', '.join(me.favorite_colors)}")
+print(f"Name: {me.name}")
+print(f"Music genres: {', '.join(me.music_genres)}")
+print(f"Personality type: {me.personality_type}")
+print(f"Favorite colors: {', '.join(me.favorite_colors)}")
 print(f"Hobbies: {', '.join(me.hobbies)}")
-print(f"Idiomas: {', '.join(me.languages)}")
+print(f"Languages: {', '.join(me.languages)}")
 
 ```
 
