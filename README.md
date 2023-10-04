@@ -36,6 +36,24 @@ Engaging in volunteer work, helping others warms my heart.
  <details align="center">
  <summary><h4>Languages, stats and more </h4></summary>
 
+
+
+
+<div align="center">
+  
+### I am currently working on these projects. 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=pmlcrz.io&&theme=github_dark)](https://github.com/pmlcrz/pmlcrz.io)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinica&&theme=github_dark)](https://github.com/pmlcrz/clinica).
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=ecommerce-em-laravel&&theme=github_dark)](https://github.com/pmlcrz/ecommerce-em-laravel)
+
+
+
+</div>
+
+
  
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> What i work with <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
 
@@ -101,14 +119,7 @@ Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-
-
-
-<p align="center">
-<a href="https://github.com/pmlcrz/github-readme-activity-graph#react-dark">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmlcrz&theme=gotham&area=true&hide_border=true&color=B0C4DE" width="100%">
-</a>
-</p>
+<br>
 
 <div align="center">
 
@@ -131,34 +142,7 @@ Design:
 
 
 
-<div align="center">
-  
-### I am currently working on these projects. 
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=pmlcrz.io&&theme=github_dark)](https://github.com/pmlcrz/pmlcrz.io)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinica&&theme=github_dark)](https://github.com/pmlcrz/clinica).
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=ecommerce-em-laravel&&theme=github_dark)](https://github.com/pmlcrz/ecommerce-em-laravel)
-
-
-
-</div>
-
-
 </details>
-
-
-<!-- <div style="display: inline_block" align="center">
-  
-
-  
-  ###### Total visits in this profile, from 26/09/2023
-  <br/>
-
-  <img alingn="center" src="https://profile-counter.glitch.me/pmlcrz/count.svg" /></br>
-      
-</div> -->
 
 
 
