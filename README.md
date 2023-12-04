@@ -20,12 +20,12 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
 
 
-<!--
+
 <div align="center">
   
 ### I am currently working on these projects. 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=pmlcrz.io&&theme=github_dark)](https://github.com/pmlcrz/pmlcrz.io)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=pmlcrz.io&&theme=github_dark)](https://github.com/pmlcrz/TCAdvogados/tree/main)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlcrz&repo=clinica&&theme=github_dark)](https://github.com/pmlcrz/clinica).
 
@@ -35,7 +35,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
 </div>
 
--->
+
  
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> What i work with <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
 
