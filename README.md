@@ -10,7 +10,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
  <details align="center">
  <summary><h4> My journey</h4></summary>
-   A woman who has dreamt of working with technology since the age of 12, or as i used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, i decided to pursue that long-standing dream. With a full scholarship, i began my journey in the field of Analysis and Systems Development. The following year, i passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying JAVA. Currently, my strongest knowledge lies in JavaScript, PHP and Python particularly in the realm of cybersecurity. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
+   A woman who has dreamt of working with technology since the age of 12, or as i used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, i decided to pursue that long-standing dream. With a full scholarship, i began my journey in the field of Analysis and Systems Development. The following year, i passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying JAVA, react native and Python particularly in the realm of cybersecurity. Currently, my strongest knowledge lies in JavaScript and PHP. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
 </details>
 
 
@@ -20,7 +20,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
 
 
-
+<!--
 <div align="center">
   
 ### I am currently working on these projects. 
@@ -32,7 +32,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
 
 </div>
-
+-->
 
  
   <h2 align="center"> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> What i work with <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="30" height="23"> </h2>
@@ -136,11 +136,11 @@ class Me:
 
 me = Me(
     name='pmlcrz',
-    music_genres=['Rock', 'Classical', 'K-pop'],
+    music_genres=['Rock', 'Classical', 'K-pop', 'Gangsta old school rap'],
     personality_type=['ENTJ-A', '3w4'],
     favorite_colors=['Blue', 'Pink', 'Yellow', 'Green'],
     hobbies=['Hiking', 'Books', 'Art', 'Travel'],
-    languages=['Brazilian portuguese', 'English', 'French', 'Mandarin', 'Spanish', 'Korean',]
+    languages=['Brazilian portuguese', 'English', 'French', 'Mandarin', 'Spanish', 'Korean', 'Italian']
 )
 
 print(f"Name: {me.name}")
