@@ -139,7 +139,7 @@ me = Me(
     music_genres=['Rock', 'Classical', 'K-pop', 'Gangsta old school rap'],
     personality_type=['ENTJ-A', '3w4'],
     favorite_colors=['Blue', 'Pink', 'Yellow', 'Green'],
-    hobbies=['Hiking', 'Books', 'Art', 'Travel'],
+    hobbies=['Hiking', 'Martial arts', 'Books', 'Art', 'Travel'],
     languages=['Brazilian portuguese', 'English', 'French', 'Mandarin', 'Spanish', 'Korean', 'Italian']
 )
 
