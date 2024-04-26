@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!+;I'm+Pamela+Cruz.;Full+stack+developer.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=363636&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!+;I'm+Pamela+Cruz.;Full+stack+developer.;)](https://git.io/typing-svg)
  
 <!-- <h1 align="center"> Hello!! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" width="30px"/>  I'm <a href="https://github.com/pmlcrz?tab=repositories/" target="blank">
 Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="30" height="23"/>
@@ -10,7 +10,7 @@ Pamela Cruz <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0
 
  <details align="center">
  <summary><h4> My journey</h4></summary>
-   A woman who has dreamt of working with technology since the age of 12, or as i used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, i decided to pursue that long-standing dream. With a full scholarship, i began my journey in the field of Analysis and Systems Development. The following year, i passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming, where I focused on studying JAVA, react native and Python particularly in the realm of cybersecurity. Currently, my strongest knowledge lies in JavaScript and PHP. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
+   A woman who has dreamt of working with technology since the age of 12, or as i used to fondly put it, 'working with computers,' haha. However, fate led me down different paths and into other fields, and for years, the tech world remained nothing more than a hobby. Then, in 2021, i decided to pursue that long-standing dream. With a full scholarship, i began my journey in the field of Analysis and Systems Development. The following year, i passed an exam to study full-stack web development, as part of an initiative by the Rio de Janeiro municipal government to train programmers. In 2023, I had the honor of being selected for a program that empowers women in programming. Currently i'm focused on studying JAVA, react native and Python particularly in the realm of cybersecurity. Currently, my strongest knowledge lies in JavaScript and PHP. I'm also an illustrator in my spare time. I have a passion for logic, problem-solving, and a strong addiction to continuous learning.
 </details>
 
 
@@ -159,4 +159,4 @@ print(f"Languages: {', '.join(me.languages)}")
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=footer"/>
