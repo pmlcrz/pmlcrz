@@ -1,4 +1,4 @@
-### <h2 align="center">  Hello, welcome! I'm Pamela Cruz 🇧🇷 </h2>
+### <h2 align="center">  Hello, welcome! I'm Pamela Cruz :)</h2>
 
 *Resident in Information Technology and Communication at* [BRISA](https://www.linkedin.com/company/brisabr/mycompany/)  &  *1/5 of* [AKUNJI - Coding Squad](https://github.com/AKUNJI-Coding-Squad)<br>
 
@@ -20,7 +20,7 @@
  ○ Languages: Português, english, español, italiano 
  <br>
 <br>
-♲ Engaged and volunteering in: Animal welfare, evironment, technology and social service
+♲ Engaged and volunteering in: Animal welfare, environment, technology and social service
 <br>
 <br>
 ✿ Hobbies: Martial arts, hiking, traveling, concerts, museums, binge-watching series, and fashion shows, chess, playing guitar
