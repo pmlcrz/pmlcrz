@@ -14,7 +14,7 @@
 ✧ I use: `.php`, `.js`, `.html`, `.css`, `.java`, `.sql`
 <br>
 <br>
-✎ Currently learning: Salesforce, AWS, cybersecurity, 中文, français, and 한국어
+✎ Currently learning: Devops, React Native, TS, Python, Angular, Cybersecurity, 中文, français, and 한국어
 <br>
 <br>
 ○ Languages: Português, English, Español, Italiano
