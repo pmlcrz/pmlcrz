@@ -1,6 +1,6 @@
 ### <h2 align="center"> Hello, welcome! I'm Pamela Cruz :)</h2>
 
-*ICT Resident at* [BRISA](https://www.linkedin.com/company/brisabr/mycompany/)  &  *1/5 of* [AKUNJI - Coding Squad](https://github.com/AKUNJI-Coding-Squad)<br>
+*ICT Resident*
 
 ✧ Associate's degree in Systems Analysis and Development
 <br>
