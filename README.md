@@ -2,6 +2,7 @@
 
 ✧ *ICT Resident*
 <br>
+<br>
 ✧ Associate's degree in Systems Analysis and Development
 <br>
 <br>
