@@ -1,7 +1,7 @@
 ### <h2 align="center"> Hello, welcome! I'm Pamela Cruz :)</h2>
 
-*ICT Resident*
-
+✧ *ICT Resident*
+<br>
 ✧ Associate's degree in Systems Analysis and Development
 <br>
 <br>
