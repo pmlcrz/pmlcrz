@@ -12,7 +12,7 @@
 ✧ Working on: **Full Stack Development** and **React Native applications**
 <br>
 <br>
-✧ I use: `.php`, `.js`, `.html`, `.css`, `.java`, `.sql`
+✧ I use: `php`, `js`, `html`, `css`, `java`, `mysql`, `c`
 <br>
 <br>
 ✎ Currently learning: Python, Rust, 中文, français and 한국어
