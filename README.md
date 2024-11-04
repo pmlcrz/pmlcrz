@@ -4,7 +4,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmlcrz&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="pmlcrz's Top Languages"/>
     </td>
     <td>
-      <div align="center">
+      <div align="left">
         ✧ Analyst Developer<br>
         ✧ Former student of the ICT Residency Program by the Ministry of STI<br>
         ✧ Associate's degree in Systems Analysis and Development<br>
