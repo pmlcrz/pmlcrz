@@ -16,8 +16,8 @@
         ♲ Engaged and volunteering in: Tech, Animal welfare, environment and social service
       </div>
     </td>
-    <td>
+   <!-- <td>
       <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Dancing Robot" height="200"/>
-    </td>
+    </td> -->
   </tr>
 </table>
