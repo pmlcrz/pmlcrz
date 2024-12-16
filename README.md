@@ -9,7 +9,7 @@
         ✧ Postgraduate Degree in Software Engineering<br>
         ✧ Graduate of the Residency Program in ICTs, an initiative by the Ministry of Science, 
         Technology, and Innovation (MCTI)<br>
-        ✧ Educator in training (Licentiate degree in progress)<br>
+        ✧ Educator in training (currently pursuing a Licentiate degree)<br>
         ✧ Currently working on full stack projects<br>
         ✧ Techs I use: PHP, JavaScript, HTML5, CSS3, Java, MySQL,
         C#, Python, TypeScript<br>
