@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmlcrz&langs_count=14&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="pmlcrz's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmlcrz&langs_count=20&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="pmlcrz's Top Languages"/>
     </td>
     <td>
       <div align="left">
