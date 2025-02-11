@@ -5,8 +5,8 @@
     </td>
     <td>
       <div align="left">
-        ✧ Associate's Degree in Systems Analysis and Development<br>
-        ✧ Postgraduate Degree in Software Engineering<br>
+        ✧ Systems Analysis and Development<br>
+        ✧ Software Engineering<br>
         ✧ Graduate of the Residency Program in ICTs, an initiative by the Ministry of Science, 
         Technology, and Innovation (MCTI)<br>
         ✧ Educator in training (currently pursuing a Licentiate degree)<br>
